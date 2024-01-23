@@ -1,4 +1,8 @@
-Login to Software
+Install Environemnt, Django and git clone ___FileName___
+Pip freeze requirement.txt
+
+
+Login to Software (Login Details user1 and password1)
 ![image](https://github.com/balaji-shetty/SGGS_TY_Jan-24/assets/50900325/75c1573e-2fc6-43c2-b66d-27ecef61c058)
 
 Add new Students and Attendance
